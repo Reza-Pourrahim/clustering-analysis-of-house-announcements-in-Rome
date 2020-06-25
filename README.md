@@ -1,8 +1,8 @@
 
-**This work includes two stages:**
+<H3>This work includes two stages:</H3>
 
 **1) Does basic house information reflect house's description? (Web Scraping - Clustering)** <br>
-In this assignment we will perform a clustering analysis of house announcements in Rome from Immobiliare.it. we will implement two clustering and compare the results we get. For this end, first, we will create two datasets and each of them will be filled by data that we scraped.
+In this assignment we perform a clustering analysis of house announcements in Rome from Immobiliare.it. we implement two clustering and compare the results we get. For this end, first, we create two datasets and each of them filled by data that we scraped.
 <br>
 <br>
 **2) Find the duplicates! (Hashing)** <br>
